@@ -44,4 +44,4 @@ End-to-end supply chain analytics solution covering business analysis, operation
 
 ## Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+vipcogent@gmail.com
