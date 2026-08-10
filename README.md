@@ -1,16 +1,47 @@
 ## Hi there 👋
 
-<!--
-**vipulam369-spec/vipulam369-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Vipulchandra Prajapati
 
-Here are some ideas to get you started:
+### Data Analyst | Python | Power BI | Predictive ML | Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build business-focused data analytics and predictive solutions that turn operational and financial data into actionable insights.
+
+## Core Skills
+
+- **Data Analytics:** Python, Pandas, NumPy, Exploratory Data Analysis, Business Analysis
+- **Business Intelligence:** Power BI, KPI Design, Executive Dashboards, Data Visualization
+- **Predictive Analytics:** Scikit-learn, Classification, Model Evaluation, Risk Prediction
+- **Deployment:** Streamlit, GitHub, Model Deployment
+- **Business & Finance:** Financial Analysis, Profitability Analysis, Operational Risk, ROI & Scenario Analysis
+
+## Featured Project
+
+### DataCo Supply Chain Analytics & Predictive ML
+
+End-to-end supply chain analytics solution covering business analysis, operational risk, commercial performance, predictive ML, financial scenario analysis, Power BI dashboarding, and Streamlit deployment.
+
+**Key results**
+- 54.83% historical late-delivery rate
+- 74.2% ROC-AUC
+- 84.3% precision
+- 69.7% accuracy
+- Power BI executive decision dashboard
+- Live Streamlit late-delivery risk predictor
+- Scenario-based financial impact analysis
+
+[View Project →](https://github.com/vipulam369-spec/DataCo_Supply_Chain_Analytics)
+
+[Live Streamlit App →](https://datacosupplychainanalytics-f4ese36q6pxoaxrrsphdq9.streamlit.app/)
+
+## Professional Focus
+
+- Data Analytics
+- Business Analytics
+- Financial Analytics
+- Predictive Analytics
+- Business Intelligence
+- Data-driven Decision Support
+
+## Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL)
