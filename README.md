@@ -2,7 +2,7 @@
 
 # Vipulchandra Prajapati
 
-### Data Analyst | Python | Power BI | Predictive ML | Streamlit
+### Data Analyst | Python | SQL | Power BI | Predictive ML | Streamlit
 
 I build business-focused data analytics and predictive solutions that turn operational and financial data into actionable insights.
 
